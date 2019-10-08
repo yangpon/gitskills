@@ -1,10 +1,6 @@
 but for fun hahah
 wo jiushi dev1 the second the third  the four
 wo jiushi dev2
-<<<<<<< HEAD
 wo jiushi dev3
 master change
-
-=======
 wo jiushi dev3 the second
->>>>>>> dev3
